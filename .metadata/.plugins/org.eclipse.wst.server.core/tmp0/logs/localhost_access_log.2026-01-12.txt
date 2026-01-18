@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [12/Jan/2026:22:46:38 +0530] "GET /Ebook-App/register.jsp HTTP/1.1" 200 4938
+0:0:0:0:0:0:0:1 - - [12/Jan/2026:22:46:38 +0530] "GET /Ebook-App/allComponents/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Jan/2026:22:46:56 +0530] "GET /Ebook-App HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Jan/2026:22:46:56 +0530] "GET /Ebook-App/ HTTP/1.1" 200 11759
+0:0:0:0:0:0:0:1 - - [12/Jan/2026:22:46:57 +0530] "GET /Ebook-App/Books/RBbook1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Jan/2026:22:46:57 +0530] "GET /Ebook-App/images/books-5.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Jan/2026:22:47:26 +0530] "GET /Ebook-App/register.jsp HTTP/1.1" 200 4938
