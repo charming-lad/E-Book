@@ -1,4 +1,6 @@
 INDEX VERSION 1.134
+C:\Users\LENOVO\OneDrive\Desktop\E-Book\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1232222726.index
+\Ebook-App\src\main\resources
 C:\Users\LENOVO\OneDrive\Desktop\E-Book\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2124335275.index
 \Ebook-App\src\main\resources
 C:\Users\LENOVO\OneDrive\Desktop\E-Book\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1431861360.index
